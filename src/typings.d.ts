@@ -3,3 +3,7 @@
 // https://www.typescriptlang.org/docs/handbook/writing-declaration-files.html
 
 declare var System: any;
+// added for firebase
+declare var require: NodeRequire;
+declare var module: NodeModule;
+

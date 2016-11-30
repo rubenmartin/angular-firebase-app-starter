@@ -1,4 +1,6 @@
-
+.hide{
+    display:none;
+}
 .lesson {
     margin: 25px auto 0 auto;
     max-width: 350px;

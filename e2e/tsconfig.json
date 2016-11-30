@@ -11,6 +11,14 @@
     "target": "es5",
     "typeRoots": [
       "../node_modules/@types"
+    ],
+    "files": [
+      "../node_modules/firebase/firebase.d.ts"
+    ],
+    "filesGlob": [
+      "**/*.ts",
+      "!node_modules/**/*",
+      "firebase3.d.ts"
     ]
   }
 }
